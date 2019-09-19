@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "com.novan.Main",
+            "projectName": "materi-java_d6a2653a"
+        }
+    ]
+}

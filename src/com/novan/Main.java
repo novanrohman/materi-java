@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        bangunDatar bangun = new bangunDatar( 3, 4);
+        bangunDatar bangun = new bangunDatar( 5, 10);
     }
 }
